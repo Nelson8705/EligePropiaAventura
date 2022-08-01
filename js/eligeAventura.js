@@ -1,9 +1,11 @@
 
 
+function pedidoDeNombre() {
+
 
 let nombre = prompt("Ingresa el nombre de tu personaje")
 alert("Hola, " + nombre + ". ¿Estás list@ para comenzar con la aventura?");
-
+}
 
 alert(nombre + ", Te encuentras en el puesto del pescadero. Trabajas allí durante el día a cambio de unas monedas. De pronto, escuchas gritos; ves gente, desesperada, corriendo. No entiendes qué está sucediendo.");
 alert("No sabes de qué escapan. ¿Sería lo sensato correr con ellos? De pronto, un rugido amorfo, inhumano, te sobresalta. Ese ruido, sin dudas, no es de este mundo. Te escondes detrás del puesto y ves cómo una lluvia de sangre anticipa la entrada de una siniestra criatura, que mastica los restos de un cuerpo sin vida. Comienza a olfatear y, como si detectara el miedo, clava sus profundos y ovalados ojos negros en ti. Corre en tu dirección, impulsándose con sus garras." );
